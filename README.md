@@ -16,3 +16,13 @@ The goal of this work is to provide user-friendly icons for priorities of ticket
 <image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Lowest.svg"/>
 </span>
 
+# How can I use them?
+You need to understand that JIRA does not allow to upload these icons into JIRA. You need to host them somewhere else.
+* Fork this reposotiry and **make sure your fork stays public** or your JIRA users won't be able to access the icons. In this case you will avoid future modification of this reposotory affecting your JIRA.
+* Go to https://YOUR_ORG.atlassian.net/secure/admin/ViewPriorities.jspa
+* Click "Edit" on each priority and specify URLs to **PNG** icons:
+* https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Highest.png
+* https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/High.png
+* https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Medium.png
+* https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Low.png
+* https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Lowest.png
