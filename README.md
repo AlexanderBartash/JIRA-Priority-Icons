@@ -26,3 +26,11 @@ You need to understand that JIRA does not allow to upload these icons into JIRA.
     * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Medium.png
     * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Low.png
     * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Lowest.png
+
+# Can we take it even further?
+Yes! Add some personality to your JIRA! The default names of the priorities are not better than the icons. Who knows what "Medium" means in context of your orgranization? Here are some suggested changes:
+* **Highest** => **Catastrophic** - The ultimate importance! If not done rocks will start falling from the sky and people start rampaging on the streets.	
+* **High** => **Must have** - Has to be done sooner than later. Not doing this is not an option.	
+* **Medium** => **Nice to have**	- Should be done, if possible. If not, we will survive without it.
+* **Low** => **Can live without** - Has chances to be done, but no promises. Should not be touched unless there is nothing more important.	
+* **Lowest** => **Meh** - Tasks go to die here. Do not do it unless it is very quick or there is nothing more important. Can be indefinitely pushed down the road.	
