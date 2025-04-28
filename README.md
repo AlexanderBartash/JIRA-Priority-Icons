@@ -17,9 +17,7 @@ The goal of this work is to provide user-friendly icons for priorities of ticket
 </span>
 
 # How can I use it? ┬─┬ ノ( ゜-゜ノ)
-You need to understand that JIRA does not allow to upload these icons into JIRA. You need to host them somewhere else.
-* Fork this reposotiry and **make sure your fork stays public** or your JIRA users won't be able to access the icons. In this case you will avoid future modification of this reposotory affecting your JIRA.
-* Go to https://YOUR_ORG.atlassian.net/secure/admin/ViewPriorities.jspa
+* Go to https://YOUR_ORG.atlassian.net/jira/settings/issues/priorities
 * Click "Edit" on each priority and specify URLs to **PNG** icons:
     * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Highest.png
     * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/High.png
@@ -34,3 +32,5 @@ Yes! Add some personality to your JIRA! The default names of the priorities are 
 * **Medium** => **Nice to have**	- Should be done, if possible. If not, we will survive without it.
 * **Low** => **Can live without** - Has chances to be done, but no promises. Should not be touched unless there is nothing more important.	
 * **Lowest** => **Meh** - Tasks go to die here. Do not do it unless it is very quick or there is nothing more important. Can be indefinitely pushed down the road.	
+
+See [How to Manage Priorities in JIRA](https://support.atlassian.com/jira-cloud-administration/docs/manage-priorities/)
