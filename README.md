@@ -17,13 +17,8 @@ The goal of this work is to provide user-friendly icons for priorities of ticket
 </span>
 
 # How can I use it? ┬─┬ ノ( ゜-゜ノ)
-* Go to https://YOUR_ORG.atlassian.net/jira/settings/issues/priorities
-* Click "Edit" on each priority and specify URLs to **PNG** icons:
-    * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Highest.png
-    * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/High.png
-    * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Medium.png
-    * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Low.png
-    * https://raw.githubusercontent.com/YOUR_GIT_HUB_USER/JIRA-Priority-Icons/master/Lowest.png
+Go to https://YOUR_ORG.atlassian.net/jira/settings/issues/priorities
+See [How to Manage Priorities in JIRA](https://support.atlassian.com/jira-cloud-administration/docs/manage-priorities/)
 
 # Can we take it even further?
 Yes! Add some personality to your JIRA! The default names of the priorities are not better than the icons. Who knows what "Medium" means in context of your orgranization? Here are some suggested changes:
@@ -32,5 +27,3 @@ Yes! Add some personality to your JIRA! The default names of the priorities are 
 * **Medium** => **Nice to have**	- Should be done, if possible. If not, we will survive without it.
 * **Low** => **Can live without** - Has chances to be done, but no promises. Should not be touched unless there is nothing more important.	
 * **Lowest** => **Meh** - Tasks go to die here. Do not do it unless it is very quick or there is nothing more important. Can be indefinitely pushed down the road.	
-
-See [How to Manage Priorities in JIRA](https://support.atlassian.com/jira-cloud-administration/docs/manage-priorities/)
