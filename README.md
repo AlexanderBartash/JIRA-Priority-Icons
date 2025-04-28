@@ -18,7 +18,8 @@ The goal of this work is to provide user-friendly icons for priorities of ticket
 
 # How can I use it? ┬─┬ ノ( ゜-゜ノ)
 Go to https://YOUR_ORG.atlassian.net/jira/settings/issues/priorities
-See [How to Manage Priorities in JIRA](https://support.atlassian.com/jira-cloud-administration/docs/manage-priorities/)
+
+See also [How to Manage Priorities in JIRA](https://support.atlassian.com/jira-cloud-administration/docs/manage-priorities/)
 
 # Can we take it even further?
 Yes! Add some personality to your JIRA! The default names of the priorities are not better than the icons. Who knows what "Medium" means in context of your orgranization? Here are some suggested changes:
