@@ -29,5 +29,5 @@ Yes! Add some personality to your JIRA! The default names of the priorities are 
 * **Medium** => **Nice to have**	- Should be done, if possible. If not, we will survive without it.
 * **Low** => **Can live without** - Has chances to be done, but no promises. Should not be touched unless it is very quick or there is nothing more important. Can be indefinitely pushed down the road.
 * **Lowest** => **Meh** - This is basically the graveyard whe tasks go to die. Do not do it unless it is very quick or there is nothing more important. Can be indefinitely pushed down the road.
-* **Lowest** => **Do not do it** - May exist simply as a reminder, that not everything is worth doing.
+* **Lowest** => **Not worth doing** - May exist simply as a reminder, that not everything is worth doing.
 * **Unprioritized** - The default value. The experience shows that the vast majority of tasks in JIRA is created with the default "Medium" priority because it is easy just to ignore it.
