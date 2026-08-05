@@ -14,6 +14,7 @@ The goal of this work is to provide user-friendly icons for priorities of ticket
 <image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Medium.svg"/>
 <image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Low.svg"/>
 <image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Lowest.svg"/>
+<image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Unprioritized.svg"/>
 </span>
 
 # How can I use it? ┬─┬ ノ( ゜-゜ノ)
